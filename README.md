@@ -8,3 +8,4 @@ HW2
 | Huzeyfe Yayla | https://floshroyall.github.io/Portfolio/ |
 | Derya Uludağ | https://dheriau.github.io/ |
 | Elif Davutoğlu | https://eliff1998.github.io/ |
+| Artin Baharoğlu | https://artinbaharoglu.github.io/aboutme/ |
