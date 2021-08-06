@@ -7,3 +7,4 @@ HW2
 | Yiğitcan Karataş | https://yigitcankaratas.github.io/  |
 | Huzeyfe Yayla | https://floshroyall.github.io/Portfolio/ |
 | Derya Uludağ | https://dheriau.github.io/ |
+| Elif Davutoğlu | https://eliff1998.github.io/ |
